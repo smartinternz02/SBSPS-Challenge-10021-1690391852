@@ -1,9 +1,9 @@
 <div align="center">
-  <h1>EVIAN</h1>
+  <h1>EVian</h1>
   <p>
     Hosted Link :
     <a href="https://evian.netlify.app/">
-    Evian Website
+    EVian Website
   </a>
   <br/>
  UI for Evian : <a href="https://www.figma.com/file/pYRgQZescDkHIZQS5DkV9x/EVIAN-UI"> Figma
@@ -67,7 +67,7 @@ Here comes Evians, where users can schedule charging spaces, check available sta
 2. Clone the repository
 
 ```sh
-git clone https://github.com/Evian-Sudocoders/frontend.git
+git clone https://github.com/smartinternz02/SBSPS-Challenge-10021-1690391852.git
 ```
 
 3. Open the folder containing the cloned repository
@@ -83,10 +83,3 @@ npm install
 ```sh
 npm start
 ```
-
-## Contributors
-
-- [Akash Gupta](https://github.com/akashgupta1909)
-- [Harsh Gupta](https://github.com/harshgupta1249)
-- [Harshil Mendpara](https://github.com/HarshilMendpara)
-- [Raj Varsani](https://github.com/RajVarsani)
