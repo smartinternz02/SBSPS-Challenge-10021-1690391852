@@ -2,9 +2,6 @@
   <h1>EVIAN</h1>
   <p>
     Evian Website
-    <a href="https://evian.azurewebsites.net/">
-    API Doc
-  </a>
   </p>
 </div>
 
@@ -35,7 +32,7 @@ Here comes Evians, where users can schedule charging spaces, check available sta
 2. Clone the repository
 
 ```sh
-git clone https://github.com/Evian-Sudocoders/backend.git
+git clone https://github.com/smartinternz02/SBSPS-Challenge-10021-1690391852.git
 ```
 
 3. Open the folder containing the cloned repository
@@ -55,10 +52,3 @@ npm run dev
 7. Open http://localhost:3000 to view the API documentation.
 
 <br/>
-
-## Contributors
-
-- [Akash Gupta](https://github.com/akashgupta1909)
-- [Harsh Gupta](https://github.com/harshgupta1249)
-- [Harshil Mendpara](https://github.com/HarshilMendpara)
-- [Raj Varsani](https://github.com/RajVarsani)
