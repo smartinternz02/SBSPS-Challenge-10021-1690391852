@@ -3,14 +3,14 @@
   <p>
     Hosted Link :
     <a href="https://evian.netlify.app/">
-    EVian Website
+    EVCharge Website
   </a>
   <br/>
- UI for Evian : <a href="https://www.figma.com/file/pYRgQZescDkHIZQS5DkV9x/EVIAN-UI"> Figma
+ UI for EvCharge : <a href="https://www.figma.com/file/pYRgQZescDkHIZQS5DkV9x/EVIAN-UI"> Figma
   </p>
 </div>
 
-## What is Evian?
+## What is EvCharge?
 It is a one stop solution to all your EV Charging Problem. It will significantly impact user's time and effort. Instead of finding EV stations and empty slots physically, You can now explore various stations, compare prices and book slots from home.
 
 ## What's our Motive?
@@ -26,7 +26,7 @@ It will come with some issues. Because EV charging takes longer, consumers will 
 </li>
 <li>
 But we have a solution: what if a user could reserve a slot for recharging from home? What if customers could obtain a list of local charging stations and their available slots? 
-Here comes Evians, where users can schedule charging spaces, check available stations, and book slots accordingly.
+Here comes our product, where users can schedule charging spaces, check available stations, and book slots accordingly.
 </li>
 </ul>
 
