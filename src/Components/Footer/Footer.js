@@ -131,7 +131,7 @@ function Footer() {
           <a href="/">
             <img src={logo} alt="Logo" />
           </a>
-          <div className={Styles.Copyright}>Copyright (c) 2021</div>
+          <div className={Styles.Copyright}>Copyright (c) 2023</div>
         </div>
         <div className={Styles.IconsWrapper}>
           <div
